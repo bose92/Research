@@ -1,6 +1,4 @@
-Spring 2013 - Undergraduate Research
-
-CESCA Laboratory
+Spring 2013 - Undergraduate Research (CESCA Laboratory)
 
 Final Report
 
